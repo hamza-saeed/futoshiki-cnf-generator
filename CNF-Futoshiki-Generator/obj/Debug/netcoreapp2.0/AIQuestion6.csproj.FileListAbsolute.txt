@@ -1,0 +1,23 @@
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.deps.json
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.runtimeconfig.json
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.runtimeconfig.dev.json
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.dll
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.pdb
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.csprojResolveAssemblyReference.cache
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.dll
+C:\Users\Hamza\source\repos\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.pdb
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.deps.json
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.runtimeconfig.json
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.runtimeconfig.dev.json
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.dll
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\bin\Debug\netcoreapp2.0\AIQuestion6.pdb
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.csprojAssemblyReference.cache
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.AssemblyInfoInputs.cache
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.AssemblyInfo.cs
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.csproj.CoreCompileInputs.cache
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.dll
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.pdb
+D:\University Hand Ins\Year 4\Term 1\Artificial Intelligence\AIQuestion6\AIQuestion6\obj\Debug\netcoreapp2.0\AIQuestion6.genruntimeconfig.cache
